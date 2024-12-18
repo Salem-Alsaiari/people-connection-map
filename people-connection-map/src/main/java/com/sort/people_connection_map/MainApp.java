@@ -73,7 +73,7 @@ public class MainApp extends Application {
             canvas.getChildren().addAll(node.getCircle(), node.getLabel());
         }
     }
-
+    //test
     // Draw connections between nodes
     private void drawConnections() {
         // Connections are already drawn in `addConnection`
